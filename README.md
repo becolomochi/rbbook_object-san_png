@@ -14,3 +14,34 @@
 - ❌キャラクターの改変（色の変更など見た目が変わってしまうのはおやめください😢
 - ❌コピーライトの削除（画像から削除する場合は文書の末尾などどこかに記載をお願いします:bow:
 - ❌営利目的での使用
+
+<hr>
+
+### 画像一覧
+
+#### 整数オブジェクトさん
+<img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/integer-object.png" width="200">
+
+#### 小数点オブジェクトさん
+<img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/float-object.png" width="200">
+
+#### 文字列オブジェクトさん
+<img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/string-object.png" width="200">
+
+#### 配列オブジェクトさん
+<img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/array-object1.png" width="400">
+<img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/array-object2.png" width="400">
+
+#### ハッシュオブジェクトさん
+<img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/hash-object1.png" width="200">
+<img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/hash-object2.png" width="200">
+
+#### Drink クラスさん
+<img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/drink-class1.png" width="250">
+<img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/drink-class2.png" width="400">
+
+#### Drink オブジェクトさん
+<img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/drink-object.png" width="200">
+
+#### モジュールさん
+<img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/module.png" width="200">
