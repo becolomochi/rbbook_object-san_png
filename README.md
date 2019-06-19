@@ -2,7 +2,7 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 改変禁止 4.0 国際 ライセンス</a>の下に提供されています。
 
-**ゼロからわかる Ruby 超入門** のオブジェクトさんの PNG 画像です。
+[ゼロからわかる Ruby 超入門](https://gihyo.jp/book/2018/978-4-297-10123-7) に登場する「オブジェクトさん」の PNG 画像です。
 
 ## この画像を使ってできることとできないこと
 
@@ -25,7 +25,7 @@
 
 ### Ruby と Rails の学習ガイド
 
-技術書典 6 で頒布する「Ruby と Rails の学習ガイド 2019 技術書典 6 拡大版」で使用した画像です。
+技術書典 6 で頒布した「[Ruby と Rails の学習ガイド 2019 技術書典 6 拡大版](https://booth.pm/ja/items/1312664)」で使用した画像です。
 
 #### 地図
 
