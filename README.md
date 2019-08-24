@@ -71,3 +71,9 @@
 #### モジュールさん
 
 <img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/module.png" width="200">
+
+#### LGTM
+
+LGTM ... Looks Good To Me
+
+<img src="https://github.com/becolomochi/rbbook_object-san_png/blob/master/lgtm/object-san_lgtm_300.png" width="200">
